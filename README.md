@@ -41,9 +41,9 @@ model_9.pdb
 - Each complex docked using both global and local protocols
 - Docking performed for both bound (holo) and unbound (apo) receptor structures
 - Includes peptides cyclized via:
-  - Backbone cyclization (head-to-tail)
+  -   Backbone cyclization (head-to-tail)  
   Backbone cyclization of cyclic peptides can be performed using Modeller, which enables the formation of a continuous peptide chain.
-  - Disulfide bonds 
+  -   Disulfide bonds  
 
 ## Methodology
 
