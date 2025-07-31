@@ -42,7 +42,6 @@ model_9.pdb
 - Docking performed for both bound (holo) and unbound (apo) receptor structures
 - Includes peptides cyclized via:
   -   Backbone cyclization (head-to-tail)  
-  Backbone cyclization of cyclic peptides can be performed using Modeller, which enables the formation of a continuous peptide chain.
   -   Disulfide bonds  
 
 ## Methodology
@@ -52,5 +51,7 @@ The complete protocol is described in the manuscript and Supporting Information 
 1. Flexible docking using the standalone version of CABS-dock with added distance restraints to preserve cyclic topology
 2. All-atom reconstruction of Cα traces using PD2
 3. High-resolution refinement using Rosetta FlexPepDock
+
+Backbone cyclization of cyclic peptides can be performed using Modeller, which enables the formation of a continuous peptide chain.
 
 This pipeline allows for the generation of realistic structural models of cyclic peptides bound to protein receptors without prior knowledge of the binding site (in global mode).
