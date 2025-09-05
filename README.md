@@ -55,3 +55,15 @@ The complete protocol is described in the manuscript and Supporting Information 
 Backbone cyclization of cyclic peptides can be performed using Modeller, which enables the formation of a continuous peptide chain.
 
 This pipeline allows for the generation of realistic structural models of cyclic peptides bound to protein receptors without prior knowledge of the binding site (in global mode).
+
+---
+
+## Funding
+
+This project was funded by the OPUS grant from the National Science Centre, Poland [2020/39/B/NZ2/01301].
+
+---
+
+## Citation
+
+Zalewski M, Badaczewska-Dawid A, Kmiecik S. Flexible Docking of Cyclic Peptides to Proteins Using CABS-dock. J Chem Theory Comput. Published online August 24, 2025. doi:10.1021/acs.jctc.5c00995
